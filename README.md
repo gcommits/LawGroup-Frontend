@@ -4,8 +4,12 @@ Website for a law group built using Bootstrap, HTML5, CSS3, & Javascript.
 
 Webiste - www.LawGroup.io [Deployed with Netlify]
 
+## Updates
+1.0 - Bootstrap landing page for law firm
+
+1.1 - Added flask to process contact form and newsletter form submissions
+
 ## Lessons Learned
-This was my first live project after completing a web development course. I used Bootstrap and found it best to keep things simple, focusing just on developing my front-end skills. I learned that Bootstrap is an easy way to build a responsive website.
 
 ## Preview
 
