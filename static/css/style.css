@@ -2423,3 +2423,31 @@ p {
   color: var(--white);
   background-color: var(--primary-dark);
 }
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 1400px) {
+  .popup {
+    padding-left: 30px;
+  }
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 15px;
+  border-radius: 4px;
+  z-index: 9;
+}
+
+.popup .form {
+  max-width: 300px;
+  padding: 20px;
+  background-color: var(--accent-dark);
+  margin: 5px;
+}
+
+.popup .form .btn {
+  margin-top: 10px;
+}
