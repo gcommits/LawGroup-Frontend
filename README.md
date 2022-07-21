@@ -5,7 +5,3 @@ Website for a law group built using Bootstrap, HTML5, CSS3, & Javascript. Obliga
 
 ## Updates
 +Added flask to process contact form and newsletter form submissions
-
-## Preview
-
-![](assets/demo.gif)
